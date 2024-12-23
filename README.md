@@ -9,6 +9,7 @@ Add the code to your alerts so it can pick a random song file, or have it choose
 <ins>Install</ins>
 1) Copy The Streamer.Bot Import String
 2) Paste It Into The Import String Box In Streamer.Bot
+3) Change ' Set argument %randomVideoFolder% to 'C:\Program Files\obs-studio\files\audio\Music' To Your Music/Video Folder
 
 
 
