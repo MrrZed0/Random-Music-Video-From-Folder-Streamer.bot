@@ -24,3 +24,5 @@ U0JBRR+LCAAAAAAABADVWutT28YW/96Z/g8a7uT2dtrl7kqrV78FA8Ym0GDANq47nX1JVpAsR5INppP/
 ![Test Image 1](https://github.com/MrrZed0/Random-Music-Video-From-Folder-Streamer.bot/blob/main/2.png?raw=true)
 
 **Original Source: https://extensions.streamer.bot/docs?topic=136**
+**License: https://extensions.streamer.bot/pub/license** 
+[Because Streamer.bot Got Copyright on all code stupid team]
