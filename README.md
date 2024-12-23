@@ -1,6 +1,6 @@
 **Pick Random Music/Video File From Folder For Streamer.bot**
 
-Add the code to your alerts so it can pick a random song file, or have it choose a random video from a folder for the be right back scene.
+Add the code to your alerts so it can pick a random song file, or have it choose a random video from a folder for the be right back scene. It will also set the delay for the amount of time the video or music plays
 
 [Streamer.Bot Download](https://streamer.bot/)
 
