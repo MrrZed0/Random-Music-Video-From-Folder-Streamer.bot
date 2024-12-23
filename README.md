@@ -10,6 +10,9 @@ Add the code to your alerts so it can pick a random song file, or have it choose
 1) Copy The Streamer.Bot Import String
 2) Paste It Into The Import String Box In Streamer.Bot
 3) Change ' Set argument %randomVideoFolder% to 'C:\Program Files\obs-studio\files\audio\Music' To Your Music/Video Folder
+4) Change The 'Set argument %sourceName% to 'Alert_Sound_Alerts' Change To Your Music Source In OBS-Studio
+5) The Part For 'Gets Music Duration And Sets Delay For That Amount' Group/Folder Move It To After Where Your OBS Overlays Show And Before The OBS Overlays Hide
+6) Done
 
 
 
