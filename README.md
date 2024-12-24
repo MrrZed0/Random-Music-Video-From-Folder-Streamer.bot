@@ -25,4 +25,3 @@ U0JBRR+LCAAAAAAABADVWutT28YW/96Z/g8a7uT2dtrl7kqrV78FA8Ym0GDANq47nX1JVpAsR5INppP/
 
 **Original Source: https://extensions.streamer.bot/docs?topic=136**
 **License: https://extensions.streamer.bot/pub/license** 
-[Because Streamer.bot Got Copyright on all code stupid team]
